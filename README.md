@@ -1,4 +1,4 @@
-## Hi there 👋
+## Power BI Portfolio Projects
 
 <!--
 **Priya-Pamu/Priya-Pamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
