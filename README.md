@@ -1,4 +1,5 @@
-## Hi There!! I am Raga Priya P
+
+<h1 align="center">Hi 👋, I'm Raga Priya P</h1>
 
 <a href="TARGET_LINK">
     <img alt="ALTERNATIVE_TEXT" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
