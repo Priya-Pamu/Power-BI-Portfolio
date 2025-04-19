@@ -52,7 +52,7 @@ Purpose:
 Personal Finance Dashboard is a data visualization and analysis project for exploring and analyzing  from an monthly personal finance data . This project aims to provide an easy-to-use interface for users to gain insights and provides a detailed overview of performance.
 Purpose:
 •  Compare the Income,Expenses over an year 
-•  Improve the savings of income from spending of income
+•  Improve the savings of income from analysing the spendings
 •  Effective data-driven decision making.
 
 ## [Project 3: Credit Card Spending in India Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzFiNDFlNjktMGEyZi00ZGI4LWJmY2UtMjQ2ZWViZmE4MWQ5IiwidCI6IjBiMGYyNTk2LWM2ZGMtNGM4Yy05ZGU4LTUxYTNkODAzZWVhNCJ9)
